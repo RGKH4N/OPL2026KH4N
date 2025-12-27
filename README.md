@@ -58,7 +58,7 @@ types come with more or fewer features included.
 | `Release`                   | Regular OPL release with GSM, IGS, PADEMU, VMC, PS2RD Cheat Engine & Parental Controls. |
 | `DTL_T10000`                | OPL for TOOLs (DevKit PS2)                                                              |
 | `IGS`                       | OPL with InGame Screenshot feature.                                                     |
-| `PADEMU`                    | OPL with Pad Emulation for DualShock 3 & DualShock4.                                                   |
+| `PADEMU`                    | OPL with Pad Emulation for DualShock 3 & DualShock 4.                                   |
 | `RTL`                       | OPL with the right to left language support.                                            |
 
 </p>
