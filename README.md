@@ -133,7 +133,7 @@ For PS2, 28-bit/48-bit LBA internal HDDs/SSDs/SSHDs are supported. The HDD/SSD/S
 
 - APA partitioning with PFS filesystem (up to 2TB)
 	- OPL will create the `+OPL` partition on the HDD/SSD/SSHD. To avoid this, you can create a text file at the location `hdd0:__common:pfs:OPL/conf_hdd.txt` that contains the preferred partition name (for example `__common`).
-- MBR partitioning (up to 2TB) or GPT partitioning (almost unlimited) with the FAT32 or exFAT filesystems (only the latest OPL Beta versions support this)
+- MBR partitioning (up to 2TB) or GPT partitioning (up to 9.4 ZB with 512-byte sectors) with the FAT32 or exFAT filesystems (only the latest OPL Beta versions support this)
 	- Files should be added contiguously or synchronously to avoid fragmentation. For example, drag and drop files one at a time, or ensure that files are added sequentially.
 	- When formatting drives for the exFAT filesystem, please make sure the `Allocation unit size` is set to `Default`.
 
