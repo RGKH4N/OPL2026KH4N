@@ -107,7 +107,7 @@ Game files should be *ideally* defragmented either file by file or by whole driv
 
 If you choose to use the FAT32 file system, games larger than 4GB must use USBExtreme format (see OPLUtil or USBUtil programs).
 
-We do **not** recommend using any defrag programs. The best way for defragmenting - copy all files to pc, format USB and copy all files back.
+We do **not** recommend using any defrag programs. The best way for defragmenting - copy all files to pc, format USB, and copy all files back.
 Repeat it once you faced defragmenting problem again.
 
 </p>
