@@ -247,7 +247,7 @@ You can use `hdl-dump`, `pfs-shell`, or even directly edit the disk in a hex edi
 
 For example, to use `hdl_dump` to install a game to the HDD/SSD/SSHD:
 
-  * Connect with your choosen client (OS specific)
+  * Connect with your chosen client (OS specific)
   * Run `hdl_dump inject_dvd ps2/nbd "Test Game" ./TEST.ISO`
   * Disconnect the client.
 
