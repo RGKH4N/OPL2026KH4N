@@ -99,7 +99,7 @@ HDDs/SSDs/SSHDs are also able to be formatted as exFAT to avoid the 2TB limitati
 <p>
 
 Supported file systems:
-EXFAT (since OPL 1.2.0 Beta commit 1880) and FAT32. Both use the MBR partition table
+exFAT (since OPL 1.2.0 Beta commit 1880) and FAT32. Both use the MBR partition table
 
 Game files should be *ideally* defragmented either file by file or by whole drive.
 
